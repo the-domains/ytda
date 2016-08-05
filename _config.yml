@@ -1,0 +1,14 @@
+name: YTDA
+layout_spectrum: 0.9087405043477657
+typography_spectrum: 0.6312746093741504
+color:
+  brandColors:
+    - '#D8CAA8'
+    - '#5C832F'
+    - '#284907'
+    - '#382513'
+    - '#363942'
+  brandStrength: 0.866029906943313
+  lightness: 0.7551415728416606
+  saturation: 0.08370225768254813
+  rhythmicContrast: 0.3403086218363176
